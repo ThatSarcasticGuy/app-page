@@ -1,0 +1,45 @@
+<style>
+
+.jumbotron {
+    background-image: url("https://s3.envato.com/files/123172034/01preview.png");
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    text-align:center;
+}
+h1{
+    color:white;
+}
+p {
+
+    color:maroon;
+    font-size: 30px;
+    font-style:italic;
+    word-wrap:break-word;
+}
+.lead{
+
+    color:darkorange;
+    font-size: 30px;
+    font-style:italic;
+}
+#email{
+    width:300px;
+    position:relative;
+    left:500px;
+}
+#appSummary {
+    position:relative;
+    left:350px;
+}
+.card-img-top{
+    width:200px;
+    height:200px;
+}
+body{
+    position:relative;
+}
+
+
+</style>
